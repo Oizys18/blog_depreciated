@@ -1,0 +1,66 @@
+.profileWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile {
+    margin-bottom: 50px;
+    background-color: #ffffff;
+    border-radius: 100px;
+    box-shadow: 16px 16px 43px #e6e6e6,
+        -16px -16px 43px #ffffff;
+
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &-img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+        :hover {
+            width:300px;
+        }
+    }
+
+    &-text {
+        width: 400px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+
+        li {
+            margin: 5px;
+        }
+    }
+
+    &-content {
+        text-align: center;
+        border: 1px solid ghostwhite;
+        background: #ffffff;
+        box-shadow: 20px 20px 38px #a3a3a3,
+            -20px -20px 38px #ffffff;
+        border-radius: 25px;
+    }
+
+    &-contact {
+        margin-top: 50px;
+        border: 1px solid ghostwhite;
+        border-radius: 20px;
+        background: #ffffff;
+        padding: 0 1em 1em 1em;
+        box-shadow: 20px 20px 60px #d9d9d9,
+            -20px -20px 60px #ffffff;
+    }
+
+    &-link {
+        background-color: ghostwhite;
+        margin: 0.8em;
+        padding: 0.5em;
+        border-radius: 10px;
+    }
+}
