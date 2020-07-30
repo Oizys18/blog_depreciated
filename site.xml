@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://oizys18.github.io/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/about/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/categories/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/tags/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-15/34_Iterator,-Generator</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-14/33_JS-CleanCode</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-13/32_Partial-Application-Currying-Compose-Pipe</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-11/31_Design-Pattern</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-10/30_Inheritance-polymorphism-CodeReusability</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/page2/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/page3/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/page4/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/page5/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/page6/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/page7/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/page8/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/page9/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/category/Algorithm</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/category/ComputerScience</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/category/Language</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/category/Web</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/tags/archives/</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-09/29_Algorithm</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-08/28_Function-Performance-and-Big-O-Notation</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-07/27_DataStructure</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-05/26_async_await</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-03/25_Promise</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-02/24_Collection-and-Constructor</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-07-01/23_Recursive-Function</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-30/22_Higher-Order-Function</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-29/21_Closure</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-27/20_Pure-function,-Side-effect,-Mutate</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-26/19_map,-reduce,-filter</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-25/18_Object.create%EC%99%80-Object.assign</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-24/17_Prototype-Inheritance-and-chain</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-23/16_new-Constructor-instanceof-instance</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-22/15_this,-call,-apply,-bind</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-22/Multi-process-vs-Multi-thread</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-22/Data-Structure</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-20/14_Factory-and-Class</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-19/13_DOM%EA%B3%BC-Layout</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-18/12_Bit-TypedArray-Buffer</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-17/11_JS-engines</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-16/10_setTimeout,-setInterval,-requestAnimationFrame</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-15/09_Eventloop</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-13/08_IIFE,-Modules,-Namespaces</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-01/07_expression-vs-statement</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-06-01/Javascript-Intro</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-05-31/06_FunctionScope-BlockScope-LexicalScope</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-05-28/05_==-and-===-and-typeof</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-05-26/04_Implicit-coercion</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-05-25/03_Value-and-Reference</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-05-23/02_Primitive-Types</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-05-22/01_CallStack</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-05-22/00_intro</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2020-05-20/React-Intro</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2019-12-22/Java-Intro</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2019-12-16/Firebase-Realtime-Database</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2019-10-16/Graph</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2019-09-23/Database-Basics</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://oizys18.github.io/2019-08-21/Stack</loc>
+  <lastmod>2020-07-30T10:51:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
