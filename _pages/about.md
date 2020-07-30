@@ -13,6 +13,6 @@ permalink: /about/
 - [x] Category 기능 추가
 - [x] Header, Footer 스타일 수정 
 - [ ] TIL 이관
-- [ ] Favicon 수정
+- [x] Favicon 수정
 - [ ] JS 애니메이션 추가
 #### Today I learned과 짧은 노트 위주의 게시글이 작성될 예정입니다. 
