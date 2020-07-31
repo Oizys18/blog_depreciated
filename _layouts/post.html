@@ -26,9 +26,9 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
   <div class="table-of-contents">
-      
+    {% toc %}
   </div>
-  {{ content | toc }}
+  {{ content }}
 </div>
 
 {% if page.comments %}
