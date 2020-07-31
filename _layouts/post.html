@@ -24,13 +24,12 @@ layout: default
     {% endif %}
     <br>
   </div>
-
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
   <div class="table-of-contents">
-    {% toc %}
+
   </div>
-  {{ content }}
+  {{ content | toc }}
 </div>
 
 {% if page.comments %}
