@@ -5,7 +5,7 @@
 }
 
 .profile {
-    margin-bottom: 50px;
+    margin-bottom: 2em;
     background-color: #ffffff;
     border-radius: 100px;
     box-shadow: 16px 16px 43px #e6e6e6,
@@ -22,8 +22,9 @@
         height: 200px;
         border-radius: 50%;
         object-fit: cover;
+
         :hover {
-            width:300px;
+            width: 300px;
         }
     }
 
@@ -39,7 +40,7 @@
     }
 
     &-content {
-        text-align: center;
+        padding: 10%;
         border: 1px solid ghostwhite;
         background: #ffffff;
         box-shadow: 20px 20px 38px #a3a3a3,
@@ -63,4 +64,19 @@
         padding: 0.5em;
         border-radius: 10px;
     }
+}
+
+@media screen and (max-width: 600px) {
+    .profile {
+        display:flex;
+        flex-direction:column;
+        width:80vw;
+        height:70vh;    
+        justify-content: center;
+        align-items: center;
+        &-text {
+            width:100%;
+        }
+    }
+
 }

@@ -27,6 +27,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-toc
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
@@ -38,3 +39,24 @@ exclude: [Gemfile, Gemfile.lock, tale.gemspec]
 
 # Disqus (Set to your disqus id)
 disqus: https-oizys18-github-io
+
+
+# Default 세팅
+defaults:
+  -
+    scope:
+      path: "" # 이 빈 문자열은 프로젝트의 모든 파일을 의미함
+      type: "posts" # 이전 Jekyll 2.2 에서는 `post`
+    values:
+      comments: true
+      toc: true
+      toc_sticky: true
+
+# Table of contents 세팅 
+toc:
+  min_level: 1 # default: 1
+  max_level: 3 # default: 6
+  list_class: section-nav
+  item_class: toc-entry
+  item_prefix: toc-
+  sublist_class: 'sublist'
