@@ -5,9 +5,6 @@ author: "Oizys18"
 permalink: /categories/
 ---
 
-<!-- ```html -->
-
-<html>
   <header class="category">
   <h1>카테고리 분류</h1>
 
@@ -25,5 +22,3 @@ permalink: /categories/
     {% endfor %}
 
   </header>
-</html>
-<!-- ``` -->
