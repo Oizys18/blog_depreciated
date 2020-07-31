@@ -28,7 +28,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
   <div class="table-of-contents">
-    {{ content | toc_only }}
+    {% toc %}
   </div>
   {{ content }}
 </div>
