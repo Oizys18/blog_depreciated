@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 # 31_[설계패턴](https://en.wikipedia.org/wiki/Design_Patterns)
 
 ### 디자인 패턴에서 고려할 사항

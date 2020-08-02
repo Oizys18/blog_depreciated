@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,Language,Intro]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 - 새로운 언어를 배울 때?
   - 문법적 차이
   - 언어의 관례 

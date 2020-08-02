@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 
 - 표현식expression: 단 하나의 Value(값)을 반환하는 코드
 - 구문statement: 행동을 수행 (값이 기대되지 않음)

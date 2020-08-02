@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 
 함수 스코프는 모든 변수가 함수에 속한다는 개념을 가진다. 따라서 함수 전체에서 사용/재사용이 가능하다.(실제로 중첩 된 스코프에서도 접근 할 수 있음). 이는 매우 유용하기에, Javascript 변수의 "동적(dynamic)" 특성을 최대한 활용하여 필요에 따라 다른 유형의 값을 취할 수 있다.
 

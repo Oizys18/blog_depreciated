@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 ![img](https://camo.githubusercontent.com/666ddb2149ddfaadf7d80c5c344b8cdfc8495529/68747470733a2f2f70726f636573732e66696c65737461636b6170692e636f6d2f63616368653d6578706972793a6d61782f726573697a653d77696474683a313035302f344a4839685230365132536d31467466376b6661)
 
 ## prototype vs Prototype

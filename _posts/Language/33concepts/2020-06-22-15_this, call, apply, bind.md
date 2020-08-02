@@ -7,7 +7,10 @@ comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
 
-
+## 목차
+* TOC
+{:toc}
+* * *
 - `call`,`apply`,`bind`: 함수 호출을 제어하는데 사용된다.
 - `call()`/`apply()`를 사용하여 함수를 즉시 호출할 수 있다. `bind()`는 나중에 실행될 때 원래의 함수를 호출하는 올바른 컨텍스트("**this**")를 갖는 바인딩 함수를 반환한다. 그래서 `bind()`는 함수가 특정 이벤트에서 나중에 호출되어야 할 경우에 유용하게 사용할 수 있다.
 

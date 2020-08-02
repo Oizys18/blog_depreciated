@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 # 28_함수 성능과 빅 오(Big O) 표기법
 
 - *Big O is **the worst-case scenario growth curve** for the complexity of an algorithm*

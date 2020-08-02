@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 ## IIFE  (Immediately Invoked Function Expression)
 - 익명의 클로저를 통해 "privacy"를 제공하는 설계 패턴
 

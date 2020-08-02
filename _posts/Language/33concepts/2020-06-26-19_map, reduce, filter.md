@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 - 코드 간결성
 - 함수형 프로그래밍! 
 - `for`, `forEach` 루프 관리 안해도 된다!

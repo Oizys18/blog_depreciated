@@ -6,7 +6,10 @@ categories: ComputerScience
 comments: true
 tags: [CS,SQL,Database,Basic]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 - 이전까지 Django의 ORM으로 DBMS의 데이터를 파이썬 파일 및 구문으로 사용할 수 있었다.
 - `sqlite`를 사용 
 

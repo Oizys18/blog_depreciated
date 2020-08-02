@@ -6,6 +6,10 @@ categories: AI_ML
 comments: true
 tags: [AI, MachineLearning, Percentron, Basic]
 ---
+## 목차
+* TOC
+{:toc}
+* * *
 
 
 - 다수의 Input을 입력받아서 하나의 Output을 출력 

@@ -6,7 +6,10 @@ categories: [ComputerScience]
 comments: true
 tags: [CS,Thread,MultiProcess,MultiThread,Basic]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 - 멀티 프로세스와 멀티 스레드는 '동시에 두 가지 이상의 루틴을 실행 할 수 있는 역할'을 하는 것은 동일하다.
 
 ## 멀티 프로세스(Multi Process)

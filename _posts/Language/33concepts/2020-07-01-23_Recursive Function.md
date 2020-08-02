@@ -7,7 +7,10 @@ comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
 
-
+## 목차
+* TOC
+{:toc}
+* * *
 - 함수 그 자체에서 자기 자신을 호출하는 함수 
 - 자바스크립트에서 재귀 함수를 구성 할때는 `Leave Event`가 있어야 합니다.
   - `Leave Event`?

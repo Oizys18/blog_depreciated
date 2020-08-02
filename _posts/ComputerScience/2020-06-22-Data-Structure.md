@@ -6,7 +6,10 @@ categories: [ComputerScience]
 comments: true
 tags: [CS,DataStructure,Basic]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 ## 개요
 
 ### 정의

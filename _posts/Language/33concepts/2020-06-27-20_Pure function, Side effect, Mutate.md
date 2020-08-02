@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 ## Pure function 순수함수
 
 - 동일한 인수가 주어지면 항상 동일한 결과를 반환하는 함수

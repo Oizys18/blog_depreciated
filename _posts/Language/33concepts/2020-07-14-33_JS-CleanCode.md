@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 
 - 최소기능단위로 함수를 분리할 것 (하나의 함수는 한가지 일만 한다.)
 

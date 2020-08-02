@@ -6,8 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language]
 ---
+## 목차
 * TOC
 {:toc}
+* * *
 
 # 32_부분 어플리케이션, 커링(Currying), Compose, Pipe
 

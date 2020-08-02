@@ -6,7 +6,10 @@ categories: [Language]
 comments: true
 tags: [Javascript,JS33Concepts,Language,]
 ---
-
+## 목차
+* TOC
+{:toc}
+* * *
 - JavaScript는 프로토타입 기반 언어이며, JavaScript의 모든 객체에는 `[[Prototype]]`이라는 숨겨진 내부 속성이 있어 객체 특성 및 메서드를 확장하는 데 사용할 수 있습니다.
 
   -  자바스크립트에는 클래스라는 개념이 없다. 대신 프로토타입(Prototype)이라는 것이 존재한다. 자바스크립트가 프로토타입 기반 언어라고 불리는 이유이다.
