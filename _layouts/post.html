@@ -5,23 +5,23 @@ layout: default
   <div class="post-info">
     <span>Written by</span>
     {% if page.author %}
-    {{ page.author }}
+    <a href="https://github.com/{{page.author}}" target="_blank">{{ page.author }}</a>
     {% else %}
-    {{ site.author.name }}
+    <a href="https://github.com/{{site.author.name}}" target="_blank">{{ site.author.name }}</a>
     {% endif %}
-
     {% if page.date %}
-    <br>
     <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
     <br>
-    {% if page.tags != empty %}
-    [{% for tag in page.tags %}
+    <div class="post-tag-list">
+
+      {% if page.tags != empty %}
+      {% for tag in page.tags %}
     <a href="/tags/archives#{{ tag | escape }}" class="post-tag">{{tag}}</a>
     {% if forloop.index != page.tags.size %},{% endif %}
-    {% endfor %}]
+    {% endfor %}
     {% endif %}
-    <br>
+  </div>
   </div>
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>

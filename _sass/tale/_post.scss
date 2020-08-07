@@ -63,6 +63,9 @@
 }
 
 .post-tag{
+  &-list{
+    margin-top:0.15em; 
+  }
   padding:0 0.2em 0 0.2em;
   border:1px solid lightslategray;
   border-radius: 5px;
