@@ -6,7 +6,6 @@ categories: [ComputerScience]
 comments: true
 tags: [CS,Database,Firebase,Basic]
 ---
-## 목차
 * TOC
 {:toc}
 * * *

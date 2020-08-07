@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "GIT "
+title: "GIT 명령어 모음"
 author: "Oizys18"
 categories: [GIT Basic Control - 깃 명령어]
 comments: true
 tags: [CS,GIT,Basic]
 ---
-## 목차
 * TOC
 {:toc}
 * * *

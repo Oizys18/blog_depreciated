@@ -6,7 +6,6 @@ categories: [Web]
 comments: true
 tags: [React,Javascript,Intro,Framework,Frontend]
 ---
-## 목차
 * TOC
 {:toc}
 * * *

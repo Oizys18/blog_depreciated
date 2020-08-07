@@ -6,7 +6,6 @@ categories: AI_ML
 comments: true
 tags: [AI, MachineLearning, Percentron, Basic]
 ---
-## 목차
 * TOC
 {:toc}
 * * *

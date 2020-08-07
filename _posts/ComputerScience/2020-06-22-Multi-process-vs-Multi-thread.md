@@ -6,7 +6,6 @@ categories: [ComputerScience]
 comments: true
 tags: [CS,Thread,MultiProcess,MultiThread,Basic]
 ---
-## 목차
 * TOC
 {:toc}
 * * *

@@ -6,7 +6,6 @@ categories: AI_ML
 comments: true
 tags: [AI, MachineLearning,NeuralNetwork, Basic]
 ---
-## 목차
 * TOC
 {:toc}
 * * *

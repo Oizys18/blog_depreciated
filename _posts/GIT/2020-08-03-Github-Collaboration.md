@@ -6,7 +6,6 @@ categories: [GIT]
 comments: true
 tags: [CS,GIT,Github,Basic]
 ---
-## 목차
 * TOC
 {:toc}
 * * *

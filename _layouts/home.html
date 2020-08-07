@@ -30,9 +30,9 @@ layout: default
   {% if page == paginator.page %}
   <span style="font-size:1.8em">{{ page }}</span>
   {% elsif page == 1 %}
-  <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
+  <a style="color:rgb(44, 44, 44)" href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
   {% else %}
-  <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+  <a style="color:rgb(44, 44, 44)" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
   {% endif %}
   {% endfor %}
   <!-- <span>{{ paginator.page }}</span> -->

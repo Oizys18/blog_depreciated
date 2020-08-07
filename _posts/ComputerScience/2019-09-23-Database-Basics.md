@@ -6,7 +6,6 @@ categories: ComputerScience
 comments: true
 tags: [CS,SQL,Database,Basic]
 ---
-## 목차
 * TOC
 {:toc}
 * * *

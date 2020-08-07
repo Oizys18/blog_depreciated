@@ -5,7 +5,7 @@
     color: $default-tint;
     font-family: $serif-secondary;
     letter-spacing: 0.5px;
-    text-align: center;
+    text-align: center; 
 
     span {
       font-style: italic;
@@ -14,8 +14,9 @@
 
   &-title {
     color: $default-shade;
-    font-family: $sans-serif;
-    font-size: 2.5rem;
+    font-family: $nanum;
+    font-weight:bold;
+    font-size: 2rem;
     margin: 1rem 0;
     text-align: center;
   }
@@ -31,9 +32,8 @@
     margin: 0 0 1rem;
     text-align: justify;
   }
-
   a:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   img {
@@ -62,9 +62,18 @@
   }
 }
 
+.post-tag{
+  padding:0 0.2em 0 0.2em;
+  border:1px solid lightslategray;
+  border-radius: 5px;
+  &:hover{
+    background-color:lightgrey;
+    text-decoration: none;
+  }
+}
 
 .table-of-contents {
-  padding:1em;
+  padding: 1em;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -88,6 +97,7 @@
       border-bottom: 1px solid lightgrey;
 
     }
+
     // 하위리스트 
     .sublist {
       .toc-entry {

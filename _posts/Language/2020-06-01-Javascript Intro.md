@@ -6,7 +6,6 @@ categories: [Language]
 comments: true
 tags: [Javascript,Language,Intro]
 ---
-## 목차
 * TOC
 {:toc}
 * * *
