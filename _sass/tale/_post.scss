@@ -5,7 +5,7 @@
     color: $default-tint;
     font-family: $serif-secondary;
     letter-spacing: 0.5px;
-    text-align: center; 
+    text-align: center;
 
     span {
       font-style: italic;
@@ -15,7 +15,7 @@
   &-title {
     color: $default-shade;
     font-family: $nanum;
-    font-weight:bold;
+    font-weight: bold;
     font-size: 2rem;
     margin: 1rem 0;
     text-align: center;
@@ -32,6 +32,7 @@
     margin: 0 0 1rem;
     text-align: justify;
   }
+
   a:hover {
     text-decoration: none;
   }
@@ -62,15 +63,21 @@
   }
 }
 
-.post-tag{
-  &-list{
-    margin-top:0.15em; 
+.post-tag {
+  &-list {
+    margin-top: 0.15em;
   }
+
   padding:0 0.2em 0 0.2em;
-  border:1px solid lightslategray;
+  background:rgb(166, 189, 212);
+  border:1px solid transparent;
   border-radius: 5px;
-  &:hover{
-    background-color:lightgrey;
+  color:black;
+  font-weight:bolder;
+  font-size:0.9em;
+  margin:0.15em;
+  &:hover {
+    background-color: lightgrey;
     text-decoration: none;
   }
 }

@@ -18,7 +18,7 @@ layout: default
       {% if page.tags != empty %}
       {% for tag in page.tags %}
     <a href="/tags/archives#{{ tag | escape }}" class="post-tag">{{tag}}</a>
-    {% if forloop.index != page.tags.size %},{% endif %}
+    <!-- {% if forloop.index != page.tags.size %},{% endif %} -->
     {% endfor %}
     {% endif %}
   </div>
