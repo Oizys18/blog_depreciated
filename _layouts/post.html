@@ -17,16 +17,47 @@ layout: default
 
       {% if page.tags != empty %}
       {% for tag in page.tags %}
-    <a href="/tags/archives#{{ tag | escape }}" class="post-tag">{{tag}}</a>
-    <!-- {% if forloop.index != page.tags.size %},{% endif %} -->
-    {% endfor %}
-    {% endif %}
-  </div>
+      <a href="/tags/archives#{{ tag | escape }}" class="post-tag">{{tag}}</a>
+      <!-- {% if forloop.index != page.tags.size %},{% endif %} -->
+      {% endfor %}
+      {% endif %}
+    </div>
   </div>
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
   {{ content }}
 </div>
+
+<div class="more-posts">
+  <div class="more-category">
+    <h4>같은 카테고리의 다른 글</h4>
+    <a href="/category/{{ page.categories }}/index.html" class="more-button">더보기</a>
+  </div>
+  <table>
+    <tbody>
+      {% assign count = 0 %}
+      {% for post in site.posts %}
+      {% if post.categories == page.categories %}
+      {% assign count = count | plus: 1 %}
+      {% if count < 4 %}
+      <tr>
+        <th class="more-posts-title">
+          <a href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+        </th>
+        <td class="more-posts-date">{{ post.date | date: '%Y. %m. %d' }}</td>
+      </tr>
+      {% endif %}
+      {% endif %}
+</div>
+
+
+{% endfor %}
+</tbody>
+</table>
+</div>
+
+
+
 
 {% if page.comments %}
 {% include disqus_comments.html %}

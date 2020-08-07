@@ -1,5 +1,5 @@
 .pagination {
-  font-size:1.5em;
+  font-size: 1.5em;
   align-items: center;
   border-top: .5px solid $grey-2;
   font-family: $serif-secondary;
@@ -28,6 +28,7 @@
     @include transition(all .3s ease-out);
     color: $default-color;
     position: absolute;
+    font-size:2rem;
 
     &:hover,
     &:focus {
@@ -43,4 +44,5 @@
   .right {
     right: 0;
   }
+
 }
