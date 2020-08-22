@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "프로그래머스 알고리즘 - 기능개발"
+title: "프로그래머스 알고리즘 - 기능개발(파이썬,자바스크립트)"
 author: "Oizys18"
 categories: Algorithm
 comments: true
-tags: [Algorithm, Programmers, Javascript, Python, Sorting]
+tags: [Algorithm, Programmers, Javascript, Python, Stack,Queue]
 ---
 
 * TOC 
