@@ -13,8 +13,12 @@ tags: [React, Javascript, Typescript, TS, Intro, Framework, Frontend]
 # 02-3 tsconfig.json 살펴보기
 
 - `tsc --help`
+  - Version, Syntax, Example, Option 확인 가능 
 - compilerOptions
+  - tsc 명령형식의 옵션
 - include
+  - 대상 파일 목록
+  - 범위에 포함된 모든 파일을 컴파일 대상으로 한다
 
 ### module
 
