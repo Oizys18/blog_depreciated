@@ -1,8 +1,8 @@
 # Site settings
 title: WinOrLearn
 description: "Junior developer 양찬우 개발 블로그"
-url: "https://oizys18.github.io/"
-baseurl: "https://oizys18.github.io/"
+url: "https://oizys18.github.io"
+baseurl: ""
 # Google Analytics
 google_analytics: UA-153492714-1
 
