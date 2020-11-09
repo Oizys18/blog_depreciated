@@ -41,7 +41,7 @@ Javascript는 함수가 일급시민(first-class citizen)이기 때문에 커링
 
 커링을 사용하면 함수를 부분적으로 수정할 수 있으며 이를 이용해 재사용 가능한 함수를 만들 수 있습니다.  **다른 예시를 살펴보겠습니다. 다음과 같은 collection을 가정해봅시다.** 
 
-```jsx
+```js
 const movies = [
   {
     "id": 1,
@@ -61,7 +61,7 @@ const movies = [
 
 이 collection에서 `id` 들을 추출하고 싶다고 가정합시다. 그냥 간단하게 `map` 함수로 collection 전체를 순회할 수 있습니다.  
 
-```jsx
+```js
 movies.map((movie) => movie.id) //should return [ 1, 2, 3 ]
 ```
 
