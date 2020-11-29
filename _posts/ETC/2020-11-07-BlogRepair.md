@@ -7,8 +7,8 @@ comments: true
 tags: [Jekyll, Github, CSS]
 ---
 
-- TOC
-  {:toc}
+* TOC 
+{:toc}
 
 ---
 
