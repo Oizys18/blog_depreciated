@@ -15,8 +15,6 @@ tags: [CS,GIT,Github,Gitlab,Basic]
 - gitlab 에서 github 으로 **커밋로그 포함, 그대로** 옮길 때 사용했다. 
 
 
-- [최솔지](https://github.com/soulgchoi)님의 은혜..
-
 ### 저장소 옮기기
 
 1. 원본 저장소를 복사한다.
