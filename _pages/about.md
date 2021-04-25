@@ -5,7 +5,7 @@ author: "Oizys18"
 permalink: /about/
 ---
 
-<!-- ### created at: 20.07.29
+### created at: 20.07.29
 ## 블로그 개발 진행상황
 - [x] About page 수정
 - [x] Tag 기능 추가 
@@ -20,4 +20,4 @@ permalink: /about/
 - [x] TIL 이관  `DONE`
 <br>
 
- -->
+
