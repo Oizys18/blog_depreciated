@@ -8,7 +8,7 @@ tags: [정보처리기사, Algorithm, CS]
 ---
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
